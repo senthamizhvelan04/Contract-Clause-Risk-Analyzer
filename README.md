@@ -3,8 +3,6 @@
 [![Tests](https://github.com/senthamizhvelan04/Contract-Clause-Risk-Analyzer/actions/workflows/python-app.yml/badge.svg)](https://github.com/senthamizhvelan04/Contract-Clause-Risk-Analyzer/actions/workflows/python-app.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**[🔥 Live Demo (Click Here to Try it out!)](https://share.streamlit.io/...)** *(Replace this link after deploying to Streamlit Community Cloud)*
-
 A production-ready tool that analyzes legal contract clauses and returns structured risk assessments (clause type, risk level, reasoning, recommended action, confidence) to accelerate human legal review. 
 *Note: This is a triage tool for legal and compliance teams, not a substitute for formal legal advice.*
 
